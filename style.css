@@ -1,0 +1,15 @@
+body {
+	background-color: darkgrey;
+}
+
+.col-30 {
+	width: 33%;
+	display: inline-block;
+	margin: auto;
+}
+
+.col-50 {
+	width: 50%;
+	display: inline-block;
+	margin: auto;
+}
